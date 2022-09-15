@@ -13,7 +13,7 @@ Responsive-Layout exercise. 7th week of studying at [ITGirlSchool].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; responsive layout<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Responsive layout<br>
 
 <br><br> 
 \* _Week 7 Exercise for [ITGirlSchool]_ 
