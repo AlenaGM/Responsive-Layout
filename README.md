@@ -1,6 +1,6 @@
 # Responsive-Layout
 
-Responsive-layout exercise. 7th week of studying at [ITGirlSchool].
+Responsive-layout exercise. 7th week at [ITGirlSchool].
 
 
 <br>
