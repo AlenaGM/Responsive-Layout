@@ -1,18 +1,19 @@
 # Responsive-Layout
 
-Responsive-Layout exercise. 7th week of studying at [ITGirlSchool].
+Responsive layout made as an exercise in the 7th week of studying at [ITGirlSchool].
 
 
 <br>
 <img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
-[Responsive-Layout]
+[Responsive Layout]
 
 ## Tech stack
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS-Grid<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Responsive Layout<br>
 
 <br><br> 
@@ -20,4 +21,4 @@ Responsive-Layout exercise. 7th week of studying at [ITGirlSchool].
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Responsive-Layout]: <https://alenagm.github.io/Responsive-Layout/>
+   [Responsive Layout]: <https://alenagm.github.io/responsive-layout/>
